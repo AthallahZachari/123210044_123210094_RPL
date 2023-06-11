@@ -1,0 +1,38 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Orek Tempe",
+      "bahan": "Tempe 500gr, bawang putih 4siung, cabe 8buah, daun salam 2lbr, gula merah 2sdm, minyak goreng, air 100ml, lengkuas, serai",
+      "price": "Rp20.000"
+    },
+    {
+      "id": 2,
+      "title": "Indomie Seblak Makaroni",
+      "bahan": "Indomie 1 bks, Macaroni 30gr, Daun bawang, Sosis 1 btg, Telur (kocok) 1 butir, Garam, Bawang putih, Bawang merah, Cabe",
+      "price": "Rp15.000"
+    },
+    {
+      "id": 3,
+      "title": "Telur Dadar Padang",
+      "bahan": "Telur 4 butir, Kelapa parut 3 sdm, Daun bawang, Tepung beras 2 sdm, Garam, Bawang merah 2, Bawang putih 2, Cabe 4",
+      "price": "Rp28.000"
+    },
+    {
+      "id": 4,
+      "title": "Tumis Sawi",
+      "bahan": "Sawi 1 ikat, Bawang bombai 50gr, Bawang putih 2 siung, Kecap asin 1 sdt, Kaldu ayam 100ml, Saus tiram 2 sdt, merica",
+      "price": "Rp24.000"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
